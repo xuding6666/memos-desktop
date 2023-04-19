@@ -1,7 +1,7 @@
 # memos-desktop
 
 Memos client built on electron cross-end framework to meet special usage requirements.
-
+.
 ![demo](./docs/layout.png)
 
 ## TODO
